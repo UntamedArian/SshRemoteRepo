@@ -1,0 +1,7 @@
+hdmi_force_hotplug=1
+config_hdmi_boost=5
+hdmi_drive=2
+# hdmi_mode could be 4 (60), 19 (50), 41 (100), 47 (120) - all  these are 720 Ps with different frequency
+hdmi_mode=4
+
+
